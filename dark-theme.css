@@ -1,19 +1,15 @@
 /* best dark theme for Seafile 11.0.13 */
 @media (prefers-color-scheme: dark) {
     :root {
-
         --main-bg: #282c34;                
         --dark-bg: #21252b;                   
         --light-bg: #333842;
         --darker-bg: #21252B;
-
         --main-font: #dbdbdb;               
         --light-font: #eee;                 
         --dark-font: #dbdbdb;                  
-
-        --main-theme: #96BAFF;              
-        --theme-font: #96BAFF;              
-
+        --main-theme: #EC8000;              
+        --theme-font: #EC8000;               
         --border: rgba(34, 34, 34, 0.9);                    
         --shadow: rgba(10, 10, 10, 0.8);
         --no-shadow: rgba(0, 0, 0, 0);      
@@ -28,14 +24,11 @@
         --main-bg: #fff;                
         --dark-bg: rgb(203, 223, 233);                   
         --light-bg: rgb(241, 250, 255);            
-
         --main-font: #404650;               
         --light-font: #1a1a1a;                 
         --dark-font: #535d68;                  
-
         --main-theme: rgb(190, 213, 255);              
         --theme-font: rgb(92, 113, 153);              
-
         --border: rgba(230, 230, 230, 0.6);                    
         --shadow: rgba(0, 0, 0, 0.3);         
         --no-shadow: rgba(0, 0, 0, 0);      
@@ -44,10 +37,6 @@
         --error: #673f32;
     }
 }
-
-
-
-
 /******************
     MAIN PAGE
 *****************/
